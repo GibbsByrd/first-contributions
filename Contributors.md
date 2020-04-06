@@ -82,6 +82,7 @@
 - Ela Zaman
 - Shoaib Ahmed
 - Andreas Grigoriadis
+- GibbsByrd (https://github.com/GibbsByrd)
 - [pakistan] Muhammad hamza
 - Aamna Ozair
 - Rohit Chugh
